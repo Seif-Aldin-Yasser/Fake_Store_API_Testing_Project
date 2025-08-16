@@ -1,4 +1,4 @@
-## 💻 Fake Store API Testing Project
+## 💻 Fake Store - API Testing Project
 
 
 ## 🔗 Live Demo
