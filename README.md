@@ -25,12 +25,12 @@ All manual and automation documents are in Json format and Test-API-Report.html.
 
 ### Manual Testing
 
-- 🔐 User login and token authentication  
-- 👤 Retrieve user information  
-- 🛍️ Get all products and filter by category  
-- 📦 Get single product details  
-- 🧾 View user cart  
-- ❌ Negative scenarios (e.g., invalid login, missing fields)
+- 🔐 **User login and token authentication**  
+- 👤 **Retrieve user information**  
+- 🛍️ **Get all products and filter by category**  
+- 📦 **Get single product details**  
+- 🧾 **View user cart**  
+- ❌ **Negative scenarios**
 
 ### Automated Testing
 
