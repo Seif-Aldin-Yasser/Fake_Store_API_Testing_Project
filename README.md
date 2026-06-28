@@ -74,6 +74,6 @@ Make sure you have select collections, environment and the path that you will ex
 newman run collections.json -e environment.json -r htmlextra --reporter-htmlextra export ./Test_API_Report/Test_API_Report.html
 ```
 ## 🧰 Tools Used
-- Postman (API testing)
+- Postman (API Testing)
 - Newman (Command-Line Automation to Run Tests and Generate HTML API Test Report)
 - JavaScript (Programming Language for Create API Test Scripts)
