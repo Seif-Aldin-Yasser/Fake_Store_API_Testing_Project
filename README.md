@@ -35,8 +35,9 @@ All manual and automation documents are in Json format and Test-API-Report.html.
 ### Automated Testing
 
 - Test cases automated via **Postman** collection
-- Executed using **Newman** via command line
-- Generates detailed HTML reports
+- Execute using **Newman** via command line
+- Create API test scripts using JavaScript 
+- Generate detailed HTML reports
 ---
 
 ## ⚙️ Run Automation with Newman and Generate HTML Report
@@ -75,3 +76,4 @@ newman run collections.json -e environment.json -r htmlextra --reporter-htmlextr
 ## 🧰 Tools Used
 - Postman (API testing)
 - Newman (Command-Line Automation to Run Tests and Generate HTML Report)
+- JavaScript (Programming Language for Create API Test Scripts)
