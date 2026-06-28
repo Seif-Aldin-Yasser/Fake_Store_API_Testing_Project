@@ -75,5 +75,5 @@ newman run collections.json -e environment.json -r htmlextra --reporter-htmlextr
 ```
 ## 🧰 Tools Used
 - Postman (API Testing)
-- Newman (Command-Line Automation to Run Tests and Generate HTML API Test Report)
+- Newman (Command-Line Automation to Run Tests and Generate HTML API Test Reports)
 - JavaScript (Programming Language for Create API Test Scripts)
